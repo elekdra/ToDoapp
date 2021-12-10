@@ -1,7 +1,23 @@
 [
   {
-    "TaskName": "task4",
-    "TaskDescription": "highghfv",
-    "Priority": "Less Important"
+    "TaskName": "Task 2",
+    "TaskDescription": "task2",
+    "Priority": "Critical",
+    "Mode": "Finished",
+    "Status": null
+  },
+  {
+    "TaskName": "Task 4",
+    "TaskDescription": "Add Colors JHKJ",
+    "Priority": "Important",
+    "Mode": "Finished",
+    "Status": null
+  },
+  {
+    "TaskName": "TASK8",
+    "TaskDescription": "add a picture",
+    "Priority": "Less Important",
+    "Mode": "Finished",
+    "Status": null
   }
 ]
